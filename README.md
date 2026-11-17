@@ -1,4 +1,4 @@
-# demo-repo
+# project structure
 
 [root@ip-172-31-32-106 K8S-Project1]# tree
 .
